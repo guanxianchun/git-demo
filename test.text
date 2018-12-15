@@ -4,5 +4,8 @@
 2ddddddddddddddddfff
 1adasdfsdaf
 #deal with conflict
+<<<<<<< HEAD
 #test revert
 #unconflict revert
+=======
+>>>>>>> parent of 78a9768... test revert
